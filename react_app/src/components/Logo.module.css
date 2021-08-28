@@ -1,0 +1,11 @@
+.logo {
+    display: flex;
+}
+
+.logo span {
+    font-size: 26px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 15px;
+    line-height: 40px;
+    margin-top: 10px;
+}

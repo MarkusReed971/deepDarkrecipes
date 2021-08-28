@@ -1,0 +1,6 @@
+.header {
+    padding: 18px 60px;
+    background-color: #7C594A;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
